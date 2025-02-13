@@ -1,0 +1,9 @@
+# Ignore one file
+test.txt
+
+# Ignore same type files
+*.log
+# *.txt
+
+# Ignore folder inside all files
+dev/
